@@ -1,0 +1,26 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> Promotion </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+ </HEAD>
+
+ <BODY>
+  
+<BODY bgcolor="#ECC0BB">   
+<a href="welcome.html">Homepage</a> <a href="Books.php">Book A Rooms</a>
+ <center>
+ <br>
+ <br>
+<font size=10><font face="Comic Sans MS">...PROMOTION...<font><br>
+<font size=10><font face="Comic Sans MS">SIRINUTTHIDA RESORT<font><br>
+<center> 
+<br>
+<img src="prod.jpg"width=800 border=5>
+<img src="prob.jpg"width=800 border=5>
+<img src="proc.jpg"width=800 border=5>
+ </BODY>
+</HTML>

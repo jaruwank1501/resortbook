@@ -1,0 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> Rooms </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+ </HEAD>
+
+ <BODY>
+<BODY background="IMG_2776.jpg">
+<a href="welcome.html">Homepage</a>  &nbsp;&nbsp;<a href="listforuser.php">List Book A Room</a>
+<center>
+<Pre><font size=5 font color="#FF0000">
+หากท่านสนใจใช้บริการรีสอร์ทของเรา
+สามารถเช็คห้องที่ว่าง และทำการจองห้องพักได้เลยค่ะ
+<Pre> 
+<a href="Books.php"><font size=5 font color="#3366FF">Room 1</a><font><br>
+<a href="Books.php"><font size=5 font color="#3366FF">Room 2</a><font><br>
+<a href="Books.php"><font size=5 font color="#3366FF">Room 3</a><font><br> 
+<a href="Books.php"><font size=5 font color="#3366FF">Room 4</a><font><br>
+<a href="Books.php"><font size=5 font color="#3366FF">Room 5</a><font><br>
+<a href="Books.php"><font size=5 font color="#3366FF">Room 6</a><font><br>
+<a href="Books.php"><font size=5 font color="#3366FF">Room 7</a><font><br>
+<a href="Books.php"><font size=5 font color="#3366FF">Room 8</a><font><br>
+<a href="Books.php"><font size=5 font color="#3366FF">Room 9</a><font><br>
+ </BODY>
+</HTML>

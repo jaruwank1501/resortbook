@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> Sirinutthida Resort </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+ </HEAD>
+
+ <BODY>
+  
+<style type="text/css">
+html { 
+background-image: url('IMG_2763.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+-o-background-size: 100% 100%, auto;
+-moz-background-size: 100% 100%, auto;
+-webkit-background-size: 100% 100%, auto;
+background-size: 100% 100%, auto;
+}
+</style> 
+&nbsp;<a href="register.php">Register</a> &nbsp;&nbsp;<a href="loginpage.php">LogIn Page</a>  
+ <center>
+ <br>
+ <br>
+<font size=10><font face="Comic Sans MS">SIRINUTTHIDA RESORT<font><br>
+ <font size=5><font font color="#FF0099" face="Comic Sans MS"><a href="https://www.facebook.com/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B9%8C%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97-277531762859664/">FACEBOOK</a>
+<br>
+<br>
+<img src="proa.jpg"width=800 border=5>
+<center>
+
+
+
+
+ </BODY>
+</HTML>

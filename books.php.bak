@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> Book A Rooms  </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+ </HEAD>
+
+ <BODY>
+ <style type="text/css">
+html { 
+background-image: url('book.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+-o-background-size: 100% 100%, auto;
+-moz-background-size: 100% 100%, auto;
+-webkit-background-size: 100% 100%, auto;
+background-size: 100% 100%, auto;
+}
+</style> 
+<a href="welcome.html">Homepage</a> &nbsp;&nbsp;<a href="Rooms.html">Room</a>
+ <center>
+ <br>
+  <br>
+   <br>
+    <br>
+  <br>
+   <br>
+  <form action="Booksave.php" name="frmAdd" method="post">
+<table width="600" border="1">
+<tr>
+<th width="40"> <div align="center">NumberRoom</div></th>
+<th width="40"> <div align="center">Firstname</div></th>
+<th width="40"> <div align="center">Lastname</div></th>
+</tr>
+<tr>
+<td><div align="center"><input type="text" name="NumberRoom" size="40"></div></td>
+<td><input type="text" name="Firstname" size="40"></td>
+<td><div align="center"><input type="text" name="Lastname" size="40"></div></td>
+</tr>
+</table>
+<br>
+<table width="600" border="1">
+<tr>
+<th width="40"> <div align="center">Telephone</div></th>
+<th width="40"> <div align="center">HowManyPeople</div></th>
+<th width="40"> <div align="center">HowLong</div></th>
+<th width="40"> <div align="center">CheckIn</div></th>
+<th width="40"> <div align="center">CheckOut</div></th>
+</tr>
+<tr>
+<td><div align="center"><input type="text" name="Telephone" size="40"></div></td>
+<td><input type="text" name="HowManyPeople" size="40"></td>
+<td><input type="text" name="HowLong" size="40"></td>
+<td><div align="center"><input type="date" name="CheckIn" size="40"></div></td>
+<td><div align="center"><input type="date" name="CheckOut" size="40"></div></td>
+</tr>
+</table>
+<input type="submit" name="submit" value="submit">
+</form>
+ <center>
+ </BODY>
+</HTML>
